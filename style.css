@@ -1,0 +1,119 @@
+body{
+    box-sizing: border-box;
+}
+.backgrimg{
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+}
+li a:hover{
+    color:white !important;
+}
+.active{
+    color: white;
+    border-left: solid 2px white;
+}
+#black1{
+    background-color: black;
+    height: 100px;
+}
+#black1 i{
+   margin:20px;
+   background-position: center;
+}
+
+.back1{
+    background-color: black;
+}
+.back2{
+    background-color: rgb(70, 69, 69);
+}
+.backabout{
+    background-image: url(./Images/rr1.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:top;
+     background-attachment: fixed;
+     height: 350px;
+ }
+ .backcontact{
+    background-image: url(./Images/rr1.jpg);
+    opacity: 0.7;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position:top;
+     background-attachment: fixed;
+     height: 550px;
+ }
+.img1{
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position:top;
+   
+    }
+    .imgabout{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position:top;
+        position: relative;
+    
+         }
+.img2{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;
+    width: 350px;
+    height: 350px;
+}
+.img3{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:top;
+    width: 100%;
+    height: 250px;
+}
+.width1{
+    width: 100%;
+}
+.btnwidth{
+    width: 150px;
+    
+}
+
+.m-250{
+    margin-top:  250px;
+    font-size:60px;
+    
+}
+.b-200{
+    bottom: 200px;
+}
+.b-350{
+    bottom: 350px;
+}
+.pr{
+    padding-right: 180px;
+}
+.pl{
+    padding-left: 180px;
+}
+
+.alert-red{
+    background-color: rgb(180, 10, 129);
+    color:white;
+    text-align: left;
+}
+.bott{
+    position: relative;
+    bottom:110px;
+}
+.color1{
+    background-color: gray;
+}
+
+.gallery img{
+    width: 100%;
+    cursor:pointer;
+}
